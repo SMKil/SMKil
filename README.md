@@ -10,7 +10,7 @@
 ### About me
 I'm **Synne Marie**, a dental technician by training that later fell in love with IT and programming! 🤓
 
-🌱 I’m currently getting my hands dirty in the classics (HTML/CSS/JS), working on my portfolio. Feel free to check out my repos to see my stuff and play with some live demos! 🤗 Next I'll pick a web framework (Angluar, React or Vue.js) to fiddle with, and then maybe I'll finally find time to test out TypeScript for realz! 😼
+🌱 I’m currently getting my hands dirty in the classics (HTML/CSS/JS), working on my portfolio. Feel free to check out my repos to see my stuff and play with some live demos! 🤗 Next I'll pick a web framework (Angular, React or Vue.js) to fiddle with, and then maybe I'll finally find time to test out TypeScript for realz! 😼
 
 👯 I’m looking to collaborate on n00b friendly projects! 👶 I definitely have the motivation and urge to learn, so feel free to reach out! 💪
 
