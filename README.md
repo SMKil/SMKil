@@ -4,7 +4,8 @@
 </div>
 
 <!-- Github stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SMKil)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SMKil)](https://git.io/streak-stats)
+
 
 
 ### About me
