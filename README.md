@@ -6,7 +6,8 @@
 </div>
 
 <!-- Github streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SMKil)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=SMKil)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=SMKil)](https://git.io/streak-stats)
 
 ---
 
@@ -25,7 +26,7 @@ I enjoy solving complex problems with clean, structured code, while also caring 
 
 ### ⚒️ Tech Stack & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkil&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMKil&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #### Backend & Databases  
 [![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
